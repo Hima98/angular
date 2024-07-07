@@ -1,0 +1,26 @@
+
+.main-header {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black; /* Text color */
+    padding: 40px; /* Adjust padding as needed */
+    text-align: left;
+  }
+ 
+  .Ancar-title {
+    font-size: 20px;
+    color: black;
+}
+  
+  
+  .main-heading h1 {
+    font-size: 50px; /* Adjust font size */
+  }
+  body {
+    background-image: url("https://wallpaperaccess.com/full/1244846.jpg");
+    background-size: cover; /* This makes sure the image covers the whole page */
+    background-position: center; /* This centers the image */
+    background-repeat: no-repeat; /* This prevents the image from repeating */
+}
+
+  
